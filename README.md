@@ -50,4 +50,4 @@ The app opens at `http://localhost:8501`. You can also paste the API key directl
 
 ## Author
 
-**Mykhailo Ivanyshyn** — STUDIO GOLD · Telegram [@aiceks](https://t.me/aiceks)
+STUDIO GOLD · Telegram [@aiceks](https://t.me/aiceks)
